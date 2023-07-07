@@ -1,0 +1,168 @@
+.container{
+    
+    justify-content:left;
+    margin: 1px;
+    border: 1px solid red;
+}
+.Table{
+    color:black;
+    justify-content:center;
+    padding: 2;
+    border: 2px solid greenyellow;
+    align-items: center;
+    width: 1000px;
+    
+    
+
+
+}
+
+
+.Play{
+    padding: 1px;
+    text-align: center;
+}
+.Won{
+    text-align: center;
+}
+.Draw{
+    text-align: center;
+}
+.Lost{
+    text-align: center;
+
+}
+.GF{
+    text-align: center;
+}
+.GA{
+    text-align: center;
+}
+.GD{
+    text-align: center;
+}
+.Points{
+    text-align: center;
+}
+.Form{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    height: 10px;
+    font-weight: bold;
+
+
+}
+.Index{
+    text-align: center;
+    font-weight: bold;
+}
+.Club{
+    text-align: left;
+    font-weight: bold;
+}
+.Head{
+    background:wheat;
+    
+}
+.heading{
+    text-align: center;
+}
+.Logo{
+    height:auto;
+    width: auto;
+    
+}
+
+.formCell{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid red;
+}
+.FormResult{
+    background: red;
+    background-color: #49ff00;
+}
+.Green {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: lightgreen;
+    border-radius: 55%;
+    ;
+  }
+  
+  .Red {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: coral;
+    border-radius: 55%;
+  }
+  
+  .Gray {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color:lightgray;
+    border-radius: 55%;
+  }
+  
+  .FormResult {
+    margin-right: 2px;
+  }
+  .PLlogo{
+    height: 30px;
+  }
+.position{
+    padding: 2px;
+    width: 60px;
+    height: 30px;
+}
+.played{
+    width: 80px;
+    height: 30px;
+}
+.won{
+    width:60px;
+    height: 30px;
+}
+.drawn{
+    width:60px;
+    height: 30px;
+}
+.lost{
+    width:60px;
+    height: 30px;
+}
+.gf{
+    width:60px;
+    height: 30px;
+}
+.ga{
+    width:60px;
+    height: 30px;
+}
+.gd{
+    width:60px;
+    height: 30px;
+}
+.point{
+    width:60px;
+    height: 30px;
+}
+.form{
+    width:60px;
+    height: 30px;
+}
+.Team{
+    font-weight: bold;
+}
+.ClubLogo{
+    height: 20px;
+    width: 30px;
+}
+.logoo{
+    height: 90px;
+    width: 100px;
+}
